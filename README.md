@@ -102,5 +102,5 @@ def calculate_angle(a, b, c):
 ##  Contact
 
 Author : Mallikarjun S Y 
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/yourname)
+📧 Email: h123mallikarjunsy@gmail.com  
+🔗 LinkedIn: [YourLinkedInProfile](https://linkedin.com/in/Mallikarjun SY)
